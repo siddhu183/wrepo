@@ -1,1 +1,2 @@
-.This is my first changes.
+1. This is my first changes.
+2. This is the changes from remote repo.
